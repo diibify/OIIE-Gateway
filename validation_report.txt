@@ -1,0 +1,1 @@
+OIIE: Runway 29L end not within 10m of location recommended by gateway CIFP data. Move runway end to indicated location and pull back displaced threshold distance so runway threshold stays at current location (warning only)
